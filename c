@@ -1,7 +1,7 @@
 // UDP client that uses non-blocking sockets
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #define WIN32_LEAN_AND_MEAN
-
+https://pastebin.com/u/ranandrej
 #include <windows.h>
 #include <winsock2.h>
 #include <ws2tcpip.h>
